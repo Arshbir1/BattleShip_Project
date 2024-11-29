@@ -52,8 +52,6 @@ BATTLESHIP MULTIPLAYER PROJECT/
 │       ├── GameEngine.java
 │       └── BattleshipJNI.java
 
-
-
 Note: Make sure you execute all the necessary commands from within the folder "Battleship Multiplayer Project"
 
 
