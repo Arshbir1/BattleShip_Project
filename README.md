@@ -118,7 +118,8 @@ Running the Project:
 ____________________
 
 
-Note: Before running the respective files, make sure you enter the Server System's IPv4 address in
+Note: First and foremost,all three systems should be connected with a common mobile hotspot network to avoid any network firewall issues.
+      Before running the respective files, make sure you enter the Server System's IPv4 address in
       BattleshipClient.java. By default, the code is configured to run two player tabs and system tab
       on the same system.
 
