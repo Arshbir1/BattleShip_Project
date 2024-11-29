@@ -21,36 +21,7 @@ This project is a multiplayer Battleship game implemented using C++ for the game
 
 Directory Structure:
 ____________________
-
-BATTLESHIP MULTIPLAYER PROJECT/
-│
-├── .vscode/            # VS Code configuration files (optional)
-├── bin/                # Compiled Java classes and object files
-│   ├── BattleshipClient.class
-│   ├── BattleshipServer.class
-│   ├── GameEngine.class
-│   ├── BattleshipJNI.class
-│   ├── BattleshipJNI.o
-│   ├── GameLogic.o
-│   ├── BattleshipGame.dll
-├── docs/               # Documentation files
-│   └── README.txt
-├── lib/                # JNI header files
-│   ├── jni.h
-│   └── jni_md.h
-├── src/                # Source code for Java and C++
-│   ├── cpp/
-│   │   ├── include/
-│   │   │   ├── BattleshipJNI.h
-│   │   │   └── GameLogic.h
-│   │   ├── src/
-│   │       ├── BattleshipJNI.cpp
-│   │       └── GameLogic.cpp
-│   ├── java/
-│       ├── BattleshipClient.java
-│       ├── BattleshipServer.java
-│       ├── GameEngine.java
-│       └── BattleshipJNI.java
+<img width="227" alt="Screenshot 2024-11-29 221944" src="https://github.com/user-attachments/assets/55d1daa4-3d9c-4d05-8a12-454babf52960">
 
 Note: Make sure you execute all the necessary commands from within the folder "Battleship Multiplayer Project"
 
